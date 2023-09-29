@@ -6,9 +6,6 @@
 
 Я frontend разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 
 ---
@@ -46,5 +43,5 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/denis_bulgakov)
+![codewars](https://www.codewars.com/users/denis_bulgakov/badges/small)
 
